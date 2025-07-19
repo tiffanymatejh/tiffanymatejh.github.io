@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Tiffany Matej Hrkalovic
+    #- name: Date of Birth
+      #value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English, Croatian, Dutch (A2), Spanish (A2)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Free University of Amsterdam, Amsterdam, The Netherlands
+      year: 2024
       description:
         - Description 1.
         - Description 2.
