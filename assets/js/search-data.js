@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-datasets",
-          title: "datasets",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-dataset",
+          title: "Dataset",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/dataset/";
