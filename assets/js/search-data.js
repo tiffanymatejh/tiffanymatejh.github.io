@@ -57,6 +57,12 @@ ninja.data = [{
           section: "News",},{id: "news-hosting-and-organizing-egproc-2025-jads",
           title: 'Hosting and organizing EGPROC 2025 @JADS.',
           description: "",
+          section: "News",},{id: "news-hosting-and-organizing-a-behavioral-research-workshop-jads",
+          title: 'Hosting and organizing a Behavioral Research Workshop @JADS.',
+          description: "",
+          section: "News",},{id: "news-paper-accepted-at-iui-2026-user-reliance-on-ai-support-for-collaborative-partner-selection",
+          title: 'Paper Accepted at IUI 2026 (User Reliance on AI Support for Collaborative Partner...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
