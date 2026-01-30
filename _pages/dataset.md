@@ -77,11 +77,11 @@ The dataset contains multi-modal data:
 For the collection of the dataset, the authors also developed a software framework for creating video-based online interaction experiments built on open-source technologies. It can be deployed on a server under a researcher’s control without relying on
 additional commercial third-party services. Concretely, it enables (1) the creation of web-based experiments and surveys involving video calls between participants, as well as (2) the remote monitoring of participants’ progress throughout a study, including means for communication and intervention throughout a protocol; (3) collecting and storing survey and interaction data (incl. audio and video) and (4) allow the staging of highly customized experimental protocols and to be dynamically expanded by the research community. 
 
-We are currently in the final stages of developing and making openVIMO open source. However, if you are interested in using the tool you can contact us at [parsel-ewi@tudelft.nl](mailto:parsel-ewi@tudelft.nl). 
+We are currently in the final stages of developing and making openVIMO open source. However, if you are interested in using the tool you can contact us at [parsel_ewi@tudelft.nl](mailto:parsel_ewi@tudelft.nl). 
 
 ### Dataset Access 
 
-The dataset is available and can be provided only after the Licensors receive an [End-User License Agreemant](/assets/pdf/EULA_Paco.pdf) that dictates the conditions under which the dataset can be provided and used. You can send the signed EULA to [parsel-ewi@tudelft.nl](mailto:parsel-ewi@tudelft.nl). Additionally, in the e-mail please indicate which part of the data you want to use and need. You can use the list of the type of data to refer to the part of the dataset you need.  
+The dataset is available and can be provided only after the Licensors receive an [End-User License Agreemant](/assets/pdf/EULA_Paco.pdf) that dictates the conditions under which the dataset can be provided and used. You can send the signed EULA to [parsel_ewi@tudelft.nl](mailto:parsel_ewi@tudelft.nl). Additionally, in the e-mail please indicate which part of the data you want to use and need. You can use the list of the type of data to refer to the part of the dataset you need.  
 
 ### More Information on the Dataset
 
