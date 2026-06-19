@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-06-26 15:59:00-0400
+date: 2026-03-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Hosting and organizing [EGPROC 2025](https://www.jads.nl/events/egproc/) @JADS.
+Joining as a postdoc on a project "Responsible AI in the Library Context" 

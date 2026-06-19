@@ -93,7 +93,7 @@ List of papers that have already used PARSEL dataset:
 
 [Matej Hrkalovic, T., Dudzik, B., Hung, H., & Balliet, D. (2025). Partner perceptions during brief online interactions shape partner selection and cooperation. PloS one, 20(4), e0318137.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318137)
 
-Vasiliki, K., Buczny, J., Matej Hrkalovic, T., Dudzik, B., Balliet, D., & De Vries, R., (under review). Partners Among Strangers: A Social Relations Perspective on Personality and Collaborative Partner Preferences in First Encounters
+[Vasiliki, K., Buczny, J., Matej Hrkalovic, T., Dudzik, B., Balliet, D., & De Vries, R., (2026). Partners Among Strangers: A Social Relations Perspective on Personality and Collaborative Partner Preferences in First Encounters. Journal of Research in Personality, 122(1)](https://doi.org/10.1016/j.jrp.2026.104724)
 
 
 
