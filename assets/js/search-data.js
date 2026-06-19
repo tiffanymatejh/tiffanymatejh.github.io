@@ -63,6 +63,12 @@ ninja.data = [{
           section: "News",},{id: "news-paper-accepted-at-iui-2026-user-reliance-on-ai-support-for-collaborative-partner-selection",
           title: 'Paper Accepted at IUI 2026 (User Reliance on AI Support for Collaborative Partner...',
           description: "",
+          section: "News",},{id: "news-joining-as-a-postdoc-on-a-project-responsible-ai-in-the-library-context",
+          title: 'Joining as a postdoc on a project “Responsible AI in the Library Context”...',
+          description: "",
+          section: "News",},{id: "news-organizing-a-envisionbox-supported-summer-school-2026-multiscale-social-dynamics",
+          title: 'Organizing a EnvisionBox-supported Summer School 2026 ‘Multiscale Social Dynamics’',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
